@@ -1,0 +1,57 @@
+Checked in book with ISBN: 34873247
+Added new book with ISBN: 384729834
+Added new user with ID: 372487324
+Added new book with ISBN: 347832742
+Added new book with ISBN: 874274932
+Added new book with ISBN: 64836826482346
+Deleted book with ISBN: 64836826482346
+Added new book with ISBN: 3782742
+Added new book with ISBN: 463847
+Deleted book with ISBN: 2138721836
+Added new book with ISBN: 376483264832
+Added new book with ISBN: 3423847328
+Checked in book with ISBN: 478346
+Added new book with ISBN: 34732874
+Added new book with ISBN: 4783492
+Added new book with ISBN: 347823743
+Deleted book with ISBN: 34732874
+Added new user with ID: 387432472
+Added new user with ID: 387294
+Added new user with ID: 498394
+Deleted user with ID: 387432472
+Checked in book with ISBN: 4783492
+Checked in book with ISBN: 4783492
+Checked out book with ISBN: 4783492 by user ID: 3878473
+Checked out book with ISBN: 87349324 by user ID: 938849843
+Checked in book with ISBN: 47831741
+Checked out book with ISBN: 4783492 by user ID: 76438174
+Added new book with ISBN: 2387243
+Added new book with ISBN: 39480234
+Added new book with ISBN: 32849324
+Updated availability of book with ISBN: 2738247 to True
+Deleted book with ISBN: 32849324
+Added new user with ID: 378
+Added new user with ID: 9876
+Added new user with ID: 167
+Deleted user with ID: 9876
+Checked out book with ISBN: 1874324 by user ID: 12322
+Checked in book with ISBN: 874394
+Checked in book with ISBN: 2387243
+Checked out book with ISBN: 2387243 by user ID: 28732
+Added new book with ISBN: 3874932
+Added new book with ISBN: 3298403
+Added new book with ISBN: 329483
+Added new book with ISBN: 34873294
+Added new book with ISBN: 2874329
+Deleted book with ISBN: 2874329
+Added new book with ISBN: 3874932
+Added new book with ISBN: 2938402
+Added new user with ID: 2874
+Added new user with ID: 9871
+Added new user with ID: 83743
+Added new book with ISBN: 7890
+Added new book with ISBN: 34739423
+Added new book with ISBN: 983493
+Added new user with ID: 385738
+Added new user with ID: 38473
+Checked out book with ISBN: 983493 by user ID: 82372
