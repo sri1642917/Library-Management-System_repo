@@ -1,0 +1,44 @@
+Detailed Document:
+
+1. Introduction:
+This library management system consists of multiple Python scripts to manage books, users, and operations within a library. It provides functionalities such as adding, deleting, searching, and updating books and users, along with checking in/out books.
+
+2. book.py:
+This script defines a Book class representing a book in the library. It has the following attributes:
+
+title: Title of the book.
+author: Author of the book.
+isbn: ISBN (International Standard Book Number) of the book.
+available: Availability status of the book.
+Additionally, it contains the following methods:
+
+__init__(self, title, author, isbn, available=True): Initializes a book object with provided attributes.
+__str__(self): Returns a string representation of the book object including its title, author, ISBN, and availability.
+
+3. user.py:
+This script defines a User class representing a user in the library. It has the following attributes:
+
+name: Name of the user.
+user_id: Unique identifier for the user.
+It includes the following method:
+
+__init__(self, name, user_id): Initializes a user object with provided name and user ID.
+__str__(self): Returns a string representation of the user object including its name and user ID.
+
+4. library.py:
+This script defines a Library class responsible for managing books, users, and library operations. It includes methods for:
+
+Adding, listing, searching, and deleting books and users.
+Checking in/out books.
+Logging operations to a file (log.txt).
+
+5. main.py:
+This script provides a command-line interface for interacting with the library system. It presents a menu to perform various operations such as managing books/users, checking in/out books, listing/searching books/users, and exiting the system.
+
+6. storage.py:
+This script defines utility classes (DataManager, BookManager, UserManager) for loading and saving data to JSON files. It's used to persist book and user data between sessions.
+
+Conclusion:
+The provided scripts collectively create a comprehensive library management system allowing users to efficiently manage books and users within a library environment.
+
+This detailed document provides insights into each script's purpose, structure, and functionality, facilitating better understanding and maintenance of the library management system.
